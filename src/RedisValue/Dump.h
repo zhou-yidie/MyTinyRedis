@@ -1,7 +1,7 @@
-#ifndef REDISVALUETYPE_H
-#define REDISVALUETYPE_H
-#include<iostream>
-#include<map>
-#include<vector>
+#ifndef DUMP_H
+#define DUMP_H
+#include<string>
+#include<cmath>
+#include<algorithm>
 
 #endif

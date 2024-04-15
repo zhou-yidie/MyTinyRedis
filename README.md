@@ -1,2 +1,2 @@
-# MyTinyRedis_RPC
-My Tinyredis based on the RPC framework
+# MyTinyRedis
+My Lightweight Redis based on the RPC framework

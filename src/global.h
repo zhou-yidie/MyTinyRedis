@@ -2,6 +2,7 @@
 #define GLOBAL
 #include<iostream>
 #include<unordered_map>
+#include <vector>
 #include<sstream>
 
 //set命令的模式
